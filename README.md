@@ -11,6 +11,7 @@ Cinematch is a sophisticated content-based movie recommendation engine that sugg
     - **Streamlit** for a modern, responsive, and interactive user interface.
 - **Search Functionality**: Instant search across thousands of movie titles.
 - **Responsive Design**: Premium dark-themed UI that looks great on any screen.
+- **Vibecoded Frontend/UI**: The frontend was vibecoded with anti-gravity to ensure a premium and fluid user experience.
 
 ## 🛠️ Tech Stack
 
@@ -102,4 +103,4 @@ This project requires both the backend and frontend to be running simultaneously
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-*Created by [Your Name]*
+*Created by coderkush*
